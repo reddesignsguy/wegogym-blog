@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>WeGoGym Blog</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Motivation &#8211; WeGoGym Blog</title>
+	<atom:link href="/post/category/motivation/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Empowering You to Achieve Your Gym Goals</description>
 	<lastBuildDate>Fri, 21 Mar 2025 02:10:18 +0000</lastBuildDate>
